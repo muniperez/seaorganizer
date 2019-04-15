@@ -1,0 +1,8 @@
+registration_step
+	0	account created, waiting e-mail validation, next: validate e-mail
+	1	subscription chosen: collect location and phone data
+	2	location & phone data collected, next: validate phone
+	3	phone validated, next: personal data
+	4	personal data inserted, next: certificates
+	5	certificates inserted, next: completed
+	10	registration completed

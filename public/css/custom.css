@@ -1,0 +1,38 @@
+
+.hero-text-bg-white {
+
+	background: white;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.hero-block-bg-white {
+
+	padding: 15px;
+
+	background: #fff;
+	opacity: 0.8;
+}
+
+.bg-blue	{
+
+	background-color: #4A90E2;
+}
+
+.m-t-10 {
+	margin-top: 10px;
+}
+
+.m-t-5 {
+	margin-top: 5px;
+}
+
+.m-t-15 {
+	margin-top: 15px;
+}
+
+.card-header.active {
+  background: #cce6ff;
+  border-color: #cce6ff;
+  cursor: pointer;
+}
